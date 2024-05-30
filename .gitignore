@@ -1,0 +1,13 @@
+node_modules
+# yarn.lock
+yarn-error.log
+.DS_Store
+.next
+out
+.history
+package-lock.json
+.prettierrc
+.env.local
+.vscode
+.idea
+pnpm-lock.yaml
